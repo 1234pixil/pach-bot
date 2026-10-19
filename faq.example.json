@@ -1,0 +1,4 @@
+[
+  { "k": ["shipping", "delivery"], "a": "Orders ship within 2 working days." },
+  { "k": ["refund", "return"], "a": "You can return items within 30 days." }
+]
